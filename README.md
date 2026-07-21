@@ -30,7 +30,7 @@
 
 - 💡 Exploring **The World of OPEN SOURCE**  
 - 🛠 Building cool projects, one at a time
-- 🏆 <a href="https://paradocc.vercel.app" target="_blank"><strong>1x Hackathon Winner</strong></a>  
+- 🏆 <a href="https://pov.com" target="_blank"><strong>1x Hackathon Winner</strong></a>  
 - 💬 Always down to talk tech, startups, and creative ideas 
 <!-- - 🌐 **Major Websites Built**:
   <p align="center">
