@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
+    <source media="(max-width: 1011px)" srcset="./assets/hero-mobile.svg" />
     <img src="./assets/hero.svg" width="100%" alt="Shivansh Vyas — full-stack developer and mobile app builder. Ideas into interfaces. Interfaces into real things." />
   </picture>
 </p>
@@ -13,7 +13,7 @@
 
 <br />
 
-<picture><source media="(max-width: 600px)" srcset="./assets/heading-about-mobile.svg" /><img src="./assets/heading-about.svg" width="100%" alt="01 / Behind the pixels" /></picture>
+<picture><source media="(max-width: 1011px)" srcset="./assets/heading-about-mobile.svg" /><img src="./assets/heading-about.svg" width="100%" alt="01 / Behind the pixels" /></picture>
 
 I’m **Shivansh**. I build for the web, for your phone, and for the people using both.
 
@@ -23,10 +23,10 @@ My sweet spot is where **a sharp interface meets a solid backend**: storefronts 
 
 <br />
 
-<picture><source media="(max-width: 600px)" srcset="./assets/heading-arcade-mobile.svg" /><img src="./assets/heading-arcade.svg" width="100%" alt="02 / The side quest" /></picture>
+<picture><source media="(max-width: 1011px)" srcset="./assets/heading-arcade-mobile.svg" /><img src="./assets/heading-arcade.svg" width="100%" alt="02 / The side quest" /></picture>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/arcade-mobile.svg" />
+  <source media="(max-width: 1011px)" srcset="./assets/arcade-mobile.svg" />
   <img src="./assets/arcade.svg" width="100%" alt="An animated pixel spaceship dodges red bugs and fires lime code bolts. Bugs incoming. Ship anyway. An autoplay animation, with a choose-your-side-quest reveal below." />
 </picture>
 
@@ -73,9 +73,9 @@ Somewhere, someone is using the thing that used to exist only in your head.
 
 <br />
 
-<picture><source media="(max-width: 600px)" srcset="./assets/heading-stack-mobile.svg" /><img src="./assets/heading-stack.svg" width="100%" alt="03 / The toolkit" /></picture>
+<picture><source media="(max-width: 1011px)" srcset="./assets/heading-stack-mobile.svg" /><img src="./assets/heading-stack.svg" width="100%" alt="03 / The toolkit" /></picture>
 
-<picture><source media="(max-width: 600px)" srcset="./assets/stack-mobile.svg" /><img src="./assets/stack.svg" width="100%" alt="Interface: TypeScript, JavaScript, React, Next.js, Tailwind, Vite. Mobile and backend: React Native, Expo, Node.js, Express, MongoDB, Firebase. Workflow: Git, GitHub, Figma, ESLint, Vercel, Firestore." /></picture>
+<picture><source media="(max-width: 1011px)" srcset="./assets/stack-mobile.svg" /><img src="./assets/stack.svg" width="100%" alt="Interface: TypeScript, JavaScript, React, Next.js, Tailwind, Vite. Mobile and backend: React Native, Expo, Node.js, Express, MongoDB, Firebase. Workflow: Git, GitHub, Figma, ESLint, Vercel, Firestore." /></picture>
 
 <details>
 <summary><b>Open the developer console</b></summary>
@@ -97,9 +97,9 @@ If your idea lives somewhere between **“what if?”** and **“let’s build i
 
 <br />
 
-<picture><source media="(max-width: 600px)" srcset="./assets/heading-activity-mobile.svg" /><img src="./assets/heading-activity.svg" width="100%" alt="04 / Proof of life" /></picture>
+<picture><source media="(max-width: 1011px)" srcset="./assets/heading-activity-mobile.svg" /><img src="./assets/heading-activity.svg" width="100%" alt="04 / Proof of life" /></picture>
 
-<a href="https://github.com/Shivansh2207?tab=overview"><picture><source media="(max-width: 600px)" srcset="./assets/github-signal-mobile.svg" /><img src="./assets/github-signal.svg" width="100%" alt="GitHub activity snapshot: contributions over the last twelve months, public repositories, active contribution days, and the highest weekly contribution count. The snapshot date appears in the image." /></picture></a>
+<a href="https://github.com/Shivansh2207?tab=overview"><picture><source media="(max-width: 1011px)" srcset="./assets/github-signal-mobile.svg" /><img src="./assets/github-signal.svg" width="100%" alt="GitHub activity snapshot: contributions over the last twelve months, public repositories, active contribution days, and the highest weekly contribution count. The snapshot date appears in the image." /></picture></a>
 
 <p align="center"><sub>And now, a very hungry contribution snake.</sub></p>
 
@@ -112,7 +112,7 @@ If your idea lives somewhere between **“what if?”** and **“let’s build i
 <br />
 <br />
 
-<a href="mailto:shivanshvyas2207@gmail.com"><picture><source media="(max-width: 600px)" srcset="./assets/footer-mobile.svg" /><img src="./assets/footer.svg" width="100%" alt="Have a wild idea? Let's make it real. Email shivanshvyas2207@gmail.com." /></picture></a>
+<a href="mailto:shivanshvyas2207@gmail.com"><picture><source media="(max-width: 1011px)" srcset="./assets/footer-mobile.svg" /><img src="./assets/footer.svg" width="100%" alt="Have a wild idea? Let's make it real. Email shivanshvyas2207@gmail.com." /></picture></a>
 
 <p align="center">
   <sub>Built with intent. A little too much attention to detail. And probably another open tab.</sub><br />
