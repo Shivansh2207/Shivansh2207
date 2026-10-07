@@ -17,7 +17,11 @@ npm run preview
 
 `refresh` uses `GITHUB_TOKEN` or `GH_TOKEN`; locally it can reuse `gh auth login`. Credentials remain in process memory. Never paste a token into a file or README. `preview` needs an authenticated GitHub CLI to render the README with GitHub's Markdown API and serves it on localhost:4177. Its temporary output is ignored by Git.
 
-The GitHub Action runs daily at 02:17 UTC (07:47 IST), manually from Actions, or when its generator files change on `main`. It uses the built-in repository token and only commits generated artwork. No separate personal access token is needed on GitHub. The displayed snapshot is the last successful refresh; schedules may be delayed by GitHub. If refresh fails, existing committed images remain available. GitHub may disable scheduled workflows after 60 days without repository activity; re-enable the workflow under Actions if needed.
+Automatic refresh is not enabled yet: the current GitHub CLI credential lacks the `workflow` scope, and the connected GitHub app also denied workflow creation. All images are generated, committed, and working; their displayed date is the last successful snapshot. You can refresh them locally with `npm run refresh` and commit the updated images.
+
+A ready-to-install Action is included in [profile-assets.workflow.yml](./profile-assets.workflow.yml). To enable it, authorize workflow uploads with `gh auth refresh -h github.com -s workflow`, then move the template to `.github/workflows/profile-assets.yml`, commit, and push. Alternatively, add that file through GitHub's web editor while signed into an account allowed to manage workflows.
+
+Once installed, the Action runs daily at 02:17 UTC (07:47 IST), manually from Actions, or when its generator files change on `main`. It uses the built-in repository token and only commits generated artwork. No separate personal access token is needed on GitHub. Schedules may be delayed by GitHub; if refresh fails, existing committed images remain available. GitHub may disable scheduled workflows after 60 days without repository activity; re-enable under Actions if needed.
 
 The stats use GitHub's rolling twelve-month contribution calendar, public owned repository count, active contribution days, and the highest weekly contribution count. Weekly bars include partial weeks at either end. These are activity metrics, not measures of code quality. The snake uses the same GitHub contribution source, with separate light and dark palettes.
 

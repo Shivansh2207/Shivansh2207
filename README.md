@@ -99,7 +99,7 @@ If your idea lives somewhere between **“what if?”** and **“let’s build i
 
 <picture><source media="(max-width: 600px)" srcset="./assets/heading-activity-mobile.svg" /><img src="./assets/heading-activity.svg" width="100%" alt="04 / Proof of life" /></picture>
 
-<a href="https://github.com/Shivansh2207?tab=overview"><picture><source media="(max-width: 600px)" srcset="./assets/github-signal-mobile.svg" /><img src="./assets/github-signal.svg" width="100%" alt="GitHub activity snapshot: contributions over the last twelve months, public repositories, active contribution days, and the highest weekly contribution count. Refreshed daily by GitHub Actions; the snapshot date appears in the image." /></picture></a>
+<a href="https://github.com/Shivansh2207?tab=overview"><picture><source media="(max-width: 600px)" srcset="./assets/github-signal-mobile.svg" /><img src="./assets/github-signal.svg" width="100%" alt="GitHub activity snapshot: contributions over the last twelve months, public repositories, active contribution days, and the highest weekly contribution count. The snapshot date appears in the image." /></picture></a>
 
 <p align="center"><sub>And now, a very hungry contribution snake.</sub></p>
 
